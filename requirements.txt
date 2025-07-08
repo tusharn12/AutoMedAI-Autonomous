@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-logging-loki
+python-json-logger
+pydantic
+python-multipart  # Required for Form data 

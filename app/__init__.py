@@ -1,0 +1,3 @@
+"""
+AutoMedAI FastAPI Application
+""" 
